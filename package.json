@@ -1,6 +1,6 @@
 {
   "name": "wifi-linux-tools",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Tools to scan wifi, check connection and connect to AP",
   "main": "index.js",
   "scripts": {
