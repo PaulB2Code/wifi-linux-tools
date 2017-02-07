@@ -1,0 +1,19 @@
+{
+  "name": "wifi-linux-tools",
+  "version": "2.0.0",
+  "description": "Tools to scan wifi, check connection and connect to AP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulB2Code/wifi-linux-tools.git"
+  },
+  "author": "PaulB2Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulB2Code/wifi-linux-tools/issues"
+  },
+  "homepage": "https://github.com/PaulB2Code/wifi-linux-tools#readme"
+}
